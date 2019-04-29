@@ -28,7 +28,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "react-testing-library": "6.1.2"
+    "react-testing-library": "7.0.0"
   },
   "jest": {
     "collectCoverageFrom": [
