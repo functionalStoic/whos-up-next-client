@@ -6,7 +6,7 @@ import MenuAppBar from './MenuAppBar';
 function Index() {
   return (
     <header className="App-header">
-      <h1>Who's Up Next</h1>
+      <h1>Home</h1>
       <p>Keep track of your important relationships</p>
     </header>
   );
